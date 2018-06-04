@@ -30,5 +30,5 @@ significativamente sobre questões como desempenho, moralidade, controle e trans
 Ao tomar como premissa inicial ao estudo da administração pública a incorporação da 
 tradição histórico-cultural mais ampla da humanidade (administrativa, política, legal,
 filosófica, poética, etc.), estudo e pesquiso tópicos que envolvem contribuições de 
-diferentes disciplinas, como a História, a Filosofia, a Ciência Política. 
+diferentes disciplinas, como a História, a Filosofia e a Ciência Política. 
 
