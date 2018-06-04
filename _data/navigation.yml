@@ -3,5 +3,8 @@ main:
   - title: "Publicações"
     url: /publications/     
                  
+  - title: "Consultoria Acadêmica"
+    url: /teaching/
+                 
   - title: "Contato"
     url: /contact/
