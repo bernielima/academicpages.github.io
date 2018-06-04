@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "Consultoria Acadêmica"
+excerpt: "Consultoria Acadêmica"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 Oferecemos serviços de Consultoria Acadêmica orientados para diversas áreas de conhecimento,
 sobretudo sobre a Administração e a Administração Pública em um contexto multidisciplinar.
 
