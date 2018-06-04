@@ -3,9 +3,7 @@ permalink: /
 title: "Consultoria Acadêmica"
 excerpt: "Consultoria Acadêmica"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 
