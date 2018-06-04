@@ -2,7 +2,10 @@
 main:
   - title: "Publicações"
     url: /publicacoes/     
-                 
+
+  - title: "Projetos"
+    url: /projetos/
+
   - title: "Consultoria Acadêmica"
     url: /consultoriaacademica/
                  
