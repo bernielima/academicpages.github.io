@@ -9,7 +9,7 @@
 locale                   : "pt-BR"
 title                    : "Bernardo Lima"
 title_separator          : "-"
-name                     : &name "L. Bernardo Lima"
+name                     : &name "Sobre mim"
 description              : &description "Professor de Administração Pública, Gestão e Humanidades"
 url                      : https://bernielima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
