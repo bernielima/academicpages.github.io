@@ -1,5 +1,6 @@
 ---
 permalink: /contato/
+layout: archive
 title: "Contato"
 excerpt: "Entre em Contato"
 author_profile: true
