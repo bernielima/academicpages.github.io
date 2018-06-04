@@ -8,4 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Mestre em Administração pela Universidade Federal do Espírito Santo, e graduado em Administração pela mesma instituição. Desenvolve pesquisas na área de Administração Pública na inter-relação entre dois eixos temáticos: a) Fundações da Administração Pública, com ênfase na análise das ideias, teorias, práticas e debates fundamentais desta disciplina; b) Administração Pública em Perspectiva Nacional, sobretudo no encontro da história intelectual e das práticas brasileiras com a tradição histórico-cultural mais ampla da humanidade (administrativa, política, legal, filosófica, poética, etc.).
+Olá! Eu sou o Bernardo, sou professor e pesquisador nas áreas de Administração Pública,
+Gestão e Humanidades. Sou Graduado e Mestre em Administração pela Universidade Federal 
+do Espírito Santo (UFES), tendo me concentrado desde os fins da graduação no estudo das
+instituições públicas e de tudo o mais que as envolvem, como a história e a política. 
+Nesta linha, tenho desenvolvido estudos que possuem como orientação dois eixos relacionais: 
+a) a análise das ideias, teorias e dos debates fundamentais da  Administração Pública; e,
+b) examinar este legado a partir das práticas e do pensamento brasileiro. 
+
+Previamente, em trabalho de monografia, analisei uma Secretaria Municipal de Saúde
+e propus indicadores de desempenho como modo de avaliar suas atividades, dentro da 
+cosmovisão da New Public Managament. Ao concluir que as questões que envolvem
+o bom desempenho e o entendimento das instituições públicas vão muito além de aspectos
+técnicos e gerenciais, iniciei,durante o mestrado, o exame dos fundamentos da Administração 
+Pública moderna: o relacionamento entre Política e Administração, ou seja, entre o corpo
+eleito pelos cidadãos e os servidores do Estado. Ao compor o núcleo  do governo e da administração
+pública, a dinâmica própria estabelecida por estes atores em cada sistema político responde 
+significativamente sobre questões como desempenho, moralidade, controle e transparência pública 
+(tema ainda engatinhando em terras tupiniquins).
+
+Ao tomar como premissa inicial ao estudo da administração pública a incorporação da 
+tradição histórico-cultural mais ampla da humanidade (administrativa, política, legal,
+filosófica, poética, etc.), estudo e pesquiso tópicos que envolvem contribuições de 
+diferentes disciplinas, como a História, a Filosofia, a Ciência Política. 
+
