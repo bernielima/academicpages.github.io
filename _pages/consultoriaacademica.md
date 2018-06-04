@@ -47,4 +47,3 @@ Pesquisa Bibliográfica
   
 Para solicitar um orçamento e contratar nossos serviços, entre em contato.
 =
-<br/><br/></p>
