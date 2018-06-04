@@ -2,7 +2,7 @@
 permalink: /consultoriaacademica/
 title: "Consultoria Acadêmica"
 excerpt: "Consultoria Acadêmica"
-author_profile: false
+author_profile: true
 
 ---
 
