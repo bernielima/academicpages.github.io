@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-<p style="text-align:justify">Oferecemos serviços de Consultoria Acadêmica orientados para diversas áreas do conhecimento,
+Oferecemos serviços de Consultoria Acadêmica orientados para diversas áreas do conhecimento,
 sobretudo no âmbito da Administração e da Administração Pública em uma perspectiva multidisciplinar.
 
 Orientação para Trabalhos Acadêmicos 
