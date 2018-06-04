@@ -1,8 +1,9 @@
 ---
-permalink: /contact/
+permalink: /contato/
 title: "Contato"
 excerpt: "Entre em Contato"
 author_profile: true
+
 ---
 Minhas informações de contato estão abaixo.
 Assim é mais fácil me encontrar nos lugares que resido na Internet.
