@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: archive
 title: "Sobre mim"
 excerpt: "Sobre mim"
 author_profile: true
