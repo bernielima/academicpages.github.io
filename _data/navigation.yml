@@ -4,7 +4,7 @@ main:
     url: /publications/     
                  
   - title: "Consultoria Acadêmica"
-    url: /_pages/consultoriaacademica.md
+    url: /_pages/consultoriaacademica
                  
   - title: "Contato"
     url: /contact/
