@@ -6,11 +6,11 @@ author_profile: true
 
 ---
 
+Oferecemos serviços de Consultoria Acadêmica orientados para diversas áreas do conhecimento,
+sobretudo no âmbito da Administração e da Administração Pública em uma perspectiva multidisciplinar.
 
-Oferecemos serviços de Consultoria Acadêmica orientados para diversas áreas de conhecimento,
-sobretudo sobre a Administração e a Administração Pública em um contexto multidisciplinar.
-
-  - Orientação para Trabalhos Acadêmicos 
+Orientação para Trabalhos Acadêmicos 
+======
 
 Processo de orientação do início ao fim da escrita de um trabalho acadêmico, abrangendo:
 
@@ -21,7 +21,8 @@ c) Fundamentação Teórica – Publicações clássicas e recentes sobre a tem�
 d) Procedimentos Metodológicos – Contendo a estratégia de pesquisa, nível e unidade de análise, métodos de coleta e análise dos dados
 e) Análise e Conclusões –  Articulação entre o pólo teórico e os dados empíricos coletados, e as conclusões do estudo
 
-   - Revisão Acadêmica
+Revisão Acadêmica
+======
 
 Processo de revisão de trabalhos acadêmicos em construção ou concluídos, em suas partes essenciais, a saber: 
 
@@ -31,10 +32,11 @@ c) Metodologia
 d) Análise 
 e) Conclusões.
 
-   - Outros:
+Outros
+======
 
-  > Formatação e Revisão para as normas ABNT e APA
+Formatação e Revisão para as normas ABNT e APA
 
-  > Pesquisa Bibliográfica
+Pesquisa Bibliográfica
   
-Para solicitar um orçamento e contratar nossos serviços, entre em contato.
+*Para solicitar um orçamento e contratar nossos serviços, entre em contato.
