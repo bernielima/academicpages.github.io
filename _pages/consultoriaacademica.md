@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /consultoriaacademica/
 title: "Consultoria Acadêmica"
 excerpt: "Consultoria Acadêmica"
 author_profile: true
