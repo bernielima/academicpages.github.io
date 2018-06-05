@@ -12,7 +12,7 @@ redirect_from:
 Olá! Eu sou o Bernardo, sou professor e pesquisador nas áreas de Administração Pública,
 Gestão e Humanidades. Sou Graduado e Mestre em Administração pela Universidade Federal 
 do Espírito Santo (UFES), tendo me concentrado desde os fins da graduação no estudo das
-instituições públicas e de tudo o mais que as envolvem, como a história e a política. 
+instituições públicas e de tudo mais que as envolvem, como a história e a política. 
 
 Previamente, em trabalho de monografia, analisei uma Secretaria Municipal de Saúde
 e propus indicadores de desempenho como modo de avaliar suas atividades, dentro da 
