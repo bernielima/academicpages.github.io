@@ -32,18 +32,14 @@ Revisão Acadêmica
 
 Processo de revisão de trabalhos acadêmicos concluídos ou em construção em suas partes essenciais, a saber: 
 
-a) Introdução, 
-b) Fundamentação Teórica
-c) Metodologia
-d) Análise 
-e) Conclusões.
+a) Introdução; b) Fundamentação Teórica; c) Metodologia; d) Análise; e, e) Conclusões.
 
 Outros
 ======
 
-Formatação e Revisão para as normas ABNT e APA
+- Formatação e Revisão para as normas ABNT e APA
 
-Pesquisa Bibliográfica
+- Pesquisa Bibliográfica
   
 Para solicitar um orçamento e contratar nossos serviços, entre em contato.
 =
