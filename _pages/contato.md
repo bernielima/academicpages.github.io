@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 Minhas informações de contato estão abaixo.
-Assim é mais fácil me encontrar nos lugares que resido na Internet.
+Assim é mais fácil me encontrar.
 
 * E-mail: bernn.lima@gmail.com
 * Twitter: [BernnLima](http://twitter.com/BernnLima)
