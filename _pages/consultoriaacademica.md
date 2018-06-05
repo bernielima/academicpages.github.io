@@ -17,9 +17,9 @@ Processo de orientação do início ao fim da escrita de um trabalho acadêmico,
 
 a) Temática –  Contextualização e Relevância Teórica e Social
 
-b) Problema e Objetivos de Pesquisa – Congruentes entre si, em concordância com a temática, e formulados de maneira clara e precisa
+b) Problema e Objetivos de Pesquisa – Congruentes entre si, em concordância com a temática e formulados de maneira clara e precisa
 
-b) Viabilidade da execução do trabalho – Em termos do tempo e recursos disponíveis
+b) Viabilidade da execução do trabalho – Em termos do tempo e dos recursos disponíveis
 
 c) Fundamentação Teórica – Publicações clássicas e recentes sobre a temática e os conceitos fundamentais
 
@@ -30,7 +30,7 @@ e) Análise e Conclusões –  Articulação entre o pólo teórico e os dados e
 Revisão Acadêmica
 ======
 
-Processo de revisão de trabalhos acadêmicos em construção ou concluídos, em suas partes essenciais, a saber: 
+Processo de revisão de trabalhos acadêmicos concluídos ou em construção em suas partes essenciais, a saber: 
 
 a) Introdução, 
 b) Fundamentação Teórica
