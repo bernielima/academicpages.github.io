@@ -21,12 +21,9 @@ Previamente, em trabalho de monografia, analisei uma Secretaria Municipal de Sa�
 e propus indicadores de desempenho como modo de avaliar suas atividades, dentro da 
 cosmovisão da New Public Managament. Ao concluir que as questões que envolvem
 o bom desempenho e o entendimento das instituições públicas vão muito além de aspectos
-técnicos e gerenciais, iniciei,durante o mestrado, o exame dos fundamentos da Administração 
+técnicos e gerenciais, iniciei, durante o mestrado, o exame dos fundamentos da Administração 
 Pública moderna: o relacionamento entre Política e Administração, ou seja, entre o corpo
-eleito pelos cidadãos e os servidores do Estado. Ao compor o núcleo  do governo e da administração
-pública, a dinâmica própria estabelecida por estes atores em cada sistema político responde 
-significativamente sobre questões como desempenho, moralidade, controle e transparência pública 
-(tema ainda engatinhando em terras tupiniquins).
+eleito pelos cidadãos e os servidores do Estado. 
 
 Ao tomar como premissa inicial ao estudo da administração pública a incorporação da 
 tradição histórico-cultural mais ampla da humanidade (administrativa, política, legal,
