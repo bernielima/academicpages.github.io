@@ -1,6 +1,6 @@
 ---
 permalink: /projetos/
-title: "Projetos"
+title: ""
 excerpt: "ops"
 author_profile: true
 
