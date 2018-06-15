@@ -17,7 +17,7 @@ instituições públicas e de tudo mais que as envolvem, como a história e a po
 Previamente, em trabalho de monografia, analisei uma Secretaria Municipal de Saúde
 e propus indicadores de desempenho como modo de avaliar suas atividades, dentro da 
 cosmovisão da New Public Managament. Ao concluir que as questões que envolvem o
-entendimento das instituições públicas vão muito além de aspectos técnicos e gerenciais, 
+as instituições públicas vão muito além de aspectos técnicos e gerenciais, 
 iniciei o exame das fundações da Administração Pública. Nesta linha, tenho desenvolvido 
 estudos que possuem como orientação dois eixos relacionais: a) a análise das ideias, 
 teorias e dos debates fundamentais da  Administração Pública; e, b) a incorporação 
