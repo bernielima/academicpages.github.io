@@ -20,5 +20,5 @@ de analisar a administração pública (pensamento e prática), estudo e pesquis
 tópicos que envolvem contribuições de diferentes disciplinas, como a História, 
 a Filosofia e a Ciência Política. Desenvolvo, especificadamente, estudos na 
 inter-relação de dois eixos temáticos: a) a análise das ideias, teorias e dos 
-debates fundamentais da Administração Pública; e, b) a incorporação deste legado 
+debates fundacionais da Administração Pública; e, b) a incorporação deste legado 
 para o exame das práticas e do pensamento brasileiro.  
