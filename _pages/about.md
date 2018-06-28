@@ -14,11 +14,14 @@ Gestão e Humanidades; Graduado e Mestre em Administração pela Universidade Fe
 do Espírito Santo (UFES), tendo me concentrado desde a graduação no estudo das
 instituições públicas e de tudo mais que as envolvem. 
 
-A partir da orientação de integrar a tradição histórico-cultural mais ampla da 
-humanidade (administrativa, política, legal, filosófica, poética, etc.) a fim
-de analisar a administração pública (pensamento e prática), estudo e pesquiso 
-tópicos que envolvem contribuições de diferentes disciplinas, como a História, 
-a Filosofia e a Ciência Política. Desenvolvo, especificadamente, estudos na 
-inter-relação de dois eixos temáticos: a) a análise das ideias, teorias e dos 
-debates fundacionais da Administração Pública; e, b) a incorporação deste legado 
-para o exame das práticas e do pensamento brasileiro.  
+Desenvolvo estudos na inter-relação de dois eixos temáticos: a) a análise das ideias,
+teorias e dos debates fundacionais da Administração Pública; e, b) a incorporação deste 
+legado para o exame das práticas e do pensamento brasileiro. 
+
+Dessa maneira, estudo e pesquiso  tópicos que envolvem contribuições de diferentes 
+disciplinas, como a História, a Filosofia e a Ciência Política, tendo como orientação 
+a integração da tradição histórico-cultural mais ampla da humanidade (administrativa, 
+política, legal, filosófica, poética, etc.) a fim de analisar a administração pública 
+(pensamento e prática), 
+
+  
