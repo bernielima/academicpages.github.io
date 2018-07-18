@@ -15,7 +15,8 @@ na inter-relação de dois eixos temáticos no âmbito da Administração Públi
 
 a) a análise dos conceitos, ideias, teorias e debates fundacionais da Administração Pública, envolvendo
 contribuiçõe de diferentes disciplinas e tendo como orientação a integração da tradição histórico-cultural 
-mais ampla da humanidade (administrativa, política, legal, filosófica, poética, etc.); e, 
+mais ampla da humanidade (administrativa, política, legal, filosófica, poética, etc.); e,
+
 b) a incorporação deste legado para o exame da Administração Pública brasileira (pensamento e prática).
 
 Acompanhe meus [Projetos](https://bernielima.github.io/projetos) e as [Publicações](https://bernielima.github.io/publicacoes) derivadas, os [serviços](https://bernielima.github.io/consultoriaacademica) que ofereço e as informações para [Contato](https://bernielima.github.io/contato/).
