@@ -10,12 +10,12 @@ author_profile: true
 Ofereço serviços de Consultoria Acadêmica orientados sobretudo para a área de Administração Pública
 e Gestão em uma perspectiva multidisciplinar.
 
-Orientação para Trabalhos Acadêmicos 
+- Orientação para Trabalhos Acadêmicos 
 ===
 
 Processo de orientação do início ao fim da escrita de um trabalho acadêmico, abrangendo:
 
-a) Temática –  Contextualização e Relevância Teórica e Social
+a) Temática – Contextualização e Relevância Teórica e Social
 
 b) Problema e Objetivos de Pesquisa – Congruentes entre si, em concordância com a temática e formulados de maneira clara e precisa
 
