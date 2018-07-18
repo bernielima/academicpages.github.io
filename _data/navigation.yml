@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publicações"
-    url: /publicacoes/     
-
   - title: "Projetos"
     url: /projetos/
+
+  - title: "Publicações"
+    url: /publicacoes/     
 
   - title: "Consultoria Acadêmica"
     url: /consultoriaacademica/
