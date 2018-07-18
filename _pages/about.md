@@ -10,18 +10,15 @@ redirect_from:
 ---
 
 Olá! Eu sou o Bernardo, professor e pesquisador nas áreas de Administração Pública,
-Gestão e Humanidades; Graduado e Mestre em Administração pela Universidade Federal 
-do Espírito Santo (UFES), tendo me concentrado desde a graduação no estudo das
-instituições públicas e de tudo mais que as envolvem. 
+Gestão e Humanidades.
 
-Desenvolvo estudos na inter-relação de dois eixos temáticos: a) a análise das ideias,
-teorias e dos debates fundacionais da Administração Pública; e, b) a incorporação deste 
-legado para o exame das práticas e do pensamento brasileiro. 
+Graduado e Mestre em Administração pela Universidade Federal do Espírito Santo (UFES),
+desenvolvo estudos na inter-relação de dois eixos temáticos no âmbito da Administração Pública: 
 
-Dessa maneira, estudo e pesquiso  tópicos que envolvem contribuições de diferentes 
-disciplinas, como a História, a Filosofia e a Ciência Política, tendo como orientação 
-a integração da tradição histórico-cultural mais ampla da humanidade (administrativa, 
-política, legal, filosófica, poética, etc.) a fim de analisar a administração pública 
-(pensamento e prática), 
+a) a análise dos conceitos, ideias, teorias e debates fundacionais da Administração Pública, envolvendo
+contribuiçõe de diferentes disciplinas e tendo como orientação a integração da tradição histórico-cultural 
+mais ampla da humanidade (administrativa, política, legal, filosófica, poética, etc.); e, 
 
-  
+b) a incorporação deste legado para o exame da Administração Pública brasileira (pensamento e prática).
+
+
