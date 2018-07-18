@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 
-Ofereço serviços de Consultoria Acadêmica orientados para diversas áreas do conhecimento,
-sobretudo no âmbito da Gestão e da Administração Pública em uma perspectiva multidisciplinar.
+Ofereço serviços de Consultoria Acadêmica orientados sobretudo para a área de Administração Pública
+e Gestão em uma perspectiva multidisciplinar.
 
 Orientação para Trabalhos Acadêmicos 
-======
+===
 
 Processo de orientação do início ao fim da escrita de um trabalho acadêmico, abrangendo:
 
