@@ -42,11 +42,13 @@ e) Conclusões.
 Outros
 =
 
--> Formatação e Revisão para as normas ABNT e APA
+- Formatação e Revisão para as normas ABNT e APA
 
--> Pesquisa Bibliográfica
+- Pesquisa Bibliográfica
   
--> Confecção de Resumos e Abstracts
+- Confecção de Resumos e Abstracts
+
+- Outros ao solicitar
 
 Para solicitar um orçamento e contratar nossos serviços, entre em contato.
 =
