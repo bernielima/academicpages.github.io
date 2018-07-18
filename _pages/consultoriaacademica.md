@@ -11,7 +11,6 @@ Ofereço serviços de Consultoria Acadêmica orientados sobretudo para a área d
 e Gestão em uma perspectiva multidisciplinar.
 
 - Orientação para Trabalhos Acadêmicos 
-===
 
 Processo de orientação do início ao fim da escrita de um trabalho acadêmico, abrangendo:
 
