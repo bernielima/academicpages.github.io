@@ -1,6 +1,6 @@
 ---
 permalink: /pesquisa/
-title: "Linhas de Pesquisa"
+title: ""
 excerpt: "ops"
 author_profile: true
 
