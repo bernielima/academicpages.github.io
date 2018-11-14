@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Sobre"
+    url: /about/
+
   - title: "Linhas de Pesquisa"
     url: /pesquisa/
 
