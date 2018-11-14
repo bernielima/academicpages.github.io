@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Projetos"
-    url: /projetos/
+  - title: "Linhas de Pesquisa"
+    url: /pesquisa/
 
   - title: "Publicações"
     url: /publicacoes/     
