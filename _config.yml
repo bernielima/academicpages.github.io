@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "L. Bernardo Lima"
 title_separator          : "-"
 name                     : &name "L. Bernardo Lima"
-description              : &description "Professor de Administração Pública, Gestão e Humanidades"
+description              : &description "Professor de Administração Pública e Gestão"
 url                      : https://bernielima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bernielima.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "L. Bernardo Lima"
   avatar           : "be.png"
-  bio              : "Professor de Administração Pública, Gestão e Humanidades"
+  bio              : "Professor de Administração Pública e Gestão"
   location         : "Vitória, Espírito Santo"
   employer         :
   googlescholar    : 
