@@ -1,6 +1,6 @@
 ---
 permalink: /pesquisa/
-title: ""
+title: "o"
 excerpt: "ops"
 author_profile: true
 ---
