@@ -12,7 +12,6 @@ O relacionamento entre Política e Administração como tema de pesquisa trouxe 
 
 Na história brasileira, apesar das iniciativas de reforma que se orientaram em combater os abusos e particularismos do sistema político sobre o aparato administrativo, as instituições são caracterizadas pela pessoalidade e pelo sistema de patronagem, a troca de cargos no alto escalão como forma de estabelecer alianças e apoio político. Dessa maneira, e tendo em vista que a compatibilidade entre a atuação do poder político e o esforço de desenvolvimento do caráter profissional do serviço público representa uma forma de inibir práticas associadas à corrupção e à ineficiência administrativa, analisar o relacionamento político-administrativo no contexto brasileiro engloba dimensões importantes, como o desempenho, a ética e a transparência.
 
----
 Fundações da Administração Pública
 ===
 
