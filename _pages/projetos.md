@@ -1,5 +1,5 @@
 ---
-permalink: /projetos/
+permalink: /pesquisa/
 title: "Linhas de Pesquisa"
 excerpt: "Linhas de Pesquisa"
 author_profile: true
