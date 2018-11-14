@@ -1,7 +1,7 @@
 ---
 permalink: /projetos/
-title: ""
-excerpt: "ops"
+title: "Linhas de Pesquisa"
+excerpt: "Linhas de Pesquisa"
 author_profile: true
 
 Política e Administração no Governo
