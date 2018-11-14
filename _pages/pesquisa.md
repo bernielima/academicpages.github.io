@@ -1,7 +1,7 @@
 ---
 permalink: /pesquisa/
-title: "-"
-excerpt: "ops"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
