@@ -1,9 +1,10 @@
 ---
 permalink: /pesquisa/
 title: "Linhas de Pesquisa"
-excerpt: "Linhas de Pesquisa"
+excerpt: "ops"
 author_profile: true
 
+---
 Política e Administração no Governo
 ====
 
