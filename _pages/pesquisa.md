@@ -3,8 +3,6 @@ permalink: /pesquisa/
 title: "Linhas de Pesquisa"
 excerpt: "Linhas de Pesquisa"
 author_profile: true
-redirect_from: 
-- /pesquisa.md
 
 Política e Administração no Governo
 ====
