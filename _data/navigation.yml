@@ -4,11 +4,8 @@ main:
   - title: "Sobre"
     url: /about/
 
-  - title: "Linhas de Pesquisa"
-    url: /pesquisa/
-
-  - title: "Publicações"
-    url: /publicacoes/     
-                 
+  - title: "Ensino e Pesquisa"
+    url: /ensinoepesquisa/
+                  
   - title: "Contato"
     url: /contato/
