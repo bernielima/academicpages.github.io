@@ -1,7 +1,7 @@
 ---
-permalink: /pesquisa/
+permalink: /ensinoepesquisa/
 title: ""
-excerpt: "ops"
+excerpt: ""
 author_profile: true
 ---
 
