@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mim"
+title: ""
 excerpt: "Sobre mim"
 author_profile: true
 avatar: true
