@@ -23,3 +23,21 @@ Já atuei como:
 * Professor e Coordenador de Educação Profissional em Administração - Governo do Estado do Espírito Santo
 * Pesquisador de Campo na avaliação da Política Pública Programa Reflorestar - Instituto Jones dos Santos Neves (IJSN)
 * Pesquisador de Campo no pré-teste da pesquisa de avaliação de impactos socioeconômicos da queda da barragem de Fundão - OPPEN SOCIAL
+
+Outras Experiências
+======
+* GRUPO DE PRÁTICAS REFLEXIVAS 
+Co-fundação, promoção e participação de encontros com mestrandos e doutorandos visando a reflexão
+conjunta sobre a vida acadêmica. Baseado nos trabalhos dos psicólogos James Pennebaker e Jordan
+Peterson.
+
+* REPRESENTANTE ESTUDANTIL
+Reportando ao Coordenador do Programa de Pós-graduação, e responsável por 30 estudantes.
+Representação das demandas dos estudantes de mestrado nas reuniões do Programa de Pós-Graduação em
+Administração/UFES
+
+Premiações e Outros
+======
+* Artigo indicado como um dos três melhores da divisão de Administração Pública no X Congresso de
+Administração Sociedade e Inovação, Petrópolis, RJ, 2017.
+* Conquista baseada no mérito de Bolsa de Pesquisa de Mestrado da CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)
