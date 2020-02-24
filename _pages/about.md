@@ -26,13 +26,11 @@ Já atuei como:
 
 Outras Experiências
 ======
-* GRUPO DE PRÁTICAS REFLEXIVAS 
-Co-fundação, promoção e participação de encontros com mestrandos e doutorandos visando a reflexão
+* Grupo de Práticas Reflexivas: Co-fundação, promoção e participação de encontros com mestrandos e doutorandos visando a reflexão
 conjunta sobre a vida acadêmica. Baseado nos trabalhos dos psicólogos James Pennebaker e Jordan
 Peterson.
 
-* REPRESENTANTE ESTUDANTIL
-Reportando ao Coordenador do Programa de Pós-graduação, e responsável por 30 estudantes.
+* Representante Estudantil: Reportando ao Coordenador do Programa de Pós-graduação, e responsável por 30 estudantes.
 Representação das demandas dos estudantes de mestrado nas reuniões do Programa de Pós-Graduação em
 Administração/UFES
 
