@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-Mestre e Graduado em Administração pela Universidade Federal do Espírito Santo, 
-desenvolvo estudos no âmbito da Administração Pública na inter-relação de dois eixos temáticos:
 
-a) a análise das ideias, teorias e debates fundacionais da Administração Pública, 
-e tendo como orientação a integração da tradição histórico-cultural mais ampla 
-da humanidade (administrativa, política, legal, filosófica, poética, etc.); 
+Olá, sou Bernardo Lima, graduado e mestre em Administração pela UFES.
 
-e, b) a incorporação deste legado para o exame da Administração Pública brasileira (pensamento e prática).
+Atuo no ensino, pesquisa e consultoria nas áreas de Administração Pública e Negócios. 
+
+Atualmente desenvolvo materiais didáticos para cursos de graduação e pós-graduação de Educação à Distância.
+
+Já atuei como Professor e Coordenador de Educação Profissional em Administração (Governo do Estado do Espírito Santo); Pesquisador de Campo no Instituto Jones dos Santos Neves (IJSN) e na Oppen Social; e pesquisador sobre administração pública e governo municipal na UFES. 
 
 Acompanhe minhas atividades de [Ensino e Pesquisa](https://bernielima.github.io/ensinoepesquisa) e as informações para [Contato](https://bernielima.github.io/contato/).
