@@ -14,7 +14,7 @@ Olá, sou Bernardo Lima, graduado e mestre em Administração pela UFES.
 
 Atuo no ensino, pesquisa e consultoria nas áreas de Administração Pública e Negócios. 
 
-Atualmente desenvolvo materiais didáticos para cursos de graduação e pós-graduação de Educação à Distância.
+Atualmente desenvolvo materiais didáticos para cursos de graduação e pós-graduação na modalidade Educação à Distância.
 
 Já atuei como Professor e Coordenador de Educação Profissional em Administração (Governo do Estado do Espírito Santo); Pesquisador de Campo no Instituto Jones dos Santos Neves (IJSN) e na Oppen Social; e pesquisador sobre administração pública e governo municipal na UFES. 
 
