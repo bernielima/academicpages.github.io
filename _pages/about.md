@@ -18,7 +18,7 @@ Minhas áreas de atuação abrangem também o ensino, a pesquisa, a consultoria,
 
 Já atuei como:
 * Pesquisador sobre Administração Pública e Governo Municipal - Universidade Federal do Espírito Santo (UFES)
-* Consultor na consolidação de aprendizagens do Programa Trainee de Gestão Pública - Vetor Brasil
+* Consultor na consolidação de aprendizagens do Programa Trainee de Gestão Pública - VETOR BRASIL
 * Professor e Coordenador de Educação Profissional em Administração - Governo do Estado do Espírito Santo
 * Pesquisador de Campo na avaliação da Política Pública Programa Reflorestar - Instituto Jones dos Santos Neves (IJSN)
-* Pesquisador de Campo no pré-teste da pesquisa de avaliação de impactos da queda da barragem de Fundão - Oppen Social
+* Pesquisador de Campo no pré-teste da pesquisa de avaliação de impactos socioeconômicos da queda da barragem de Fundão - OPPEN SOCIAL
