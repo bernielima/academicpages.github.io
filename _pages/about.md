@@ -17,6 +17,7 @@ Desenvolvo materiais didáticos para cursos de graduação e pós-graduação na
 Minhas áreas de atuação abrangem também o ensino, a pesquisa, a consultoria, a escrita de conteúdo e o design instrucional. 
 
 Já atuei como:
+======
 * Pesquisador sobre Administração Pública e Governo Municipal - Universidade Federal do Espírito Santo (UFES)
 * Consultor na consolidação de aprendizagens do Programa Trainee de Gestão Pública - VETOR BRASIL
 * Professor e Coordenador de Educação Profissional em Administração - Governo do Estado do Espírito Santo
