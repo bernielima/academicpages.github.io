@@ -27,7 +27,7 @@ LIMA, L. B. Política e Administração no Governo: Origens Teóricas, Agenda de
 
 2) Fundações da Administração Pública Brasileira
 ====== 
-Essa agenda de pesquisa está orientada para a análise dos conceitos, idéias, teorias e debates fundadores da Administração Pública Brasileira a partir do patrimônio histórico-cultural do Ocidente, particularmente a dicotomia político-administrativa e o "estadismo" (statesmanship).
+Essa agenda de pesquisa está orientada para a análise dos conceitos, idéias, teorias e debates fundacionais da Administração Pública Brasileira, particularmente a dicotomia político-administrativa e o "estadismo" (statesmanship).
 
 Início: 2018;
 Status: Em andamento.
