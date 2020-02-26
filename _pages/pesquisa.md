@@ -15,6 +15,19 @@ No contexto institucional brasileiro, caracterizado pelo sistema de patrongem - 
 
 A partir deste panorama, esse projeto (e agenda) de pesquisa vista incorporar este tópico como forma autônoma e mais ampla de investigação. Busca-se assim, englobar as respectivas contribuições para o entendimento da Administração Pública e do Governo contemporâneo. Este projeto foi iniciado em três etapas: a) a interpretação teórica do relacionamento político-administrativo desde os fins do século XIX; b) o estado da arte de agendas representativas de pesquisa empírica; c) uma pesquisa empírica em um governo municipal brasileiro. Ao fim da pesquisa de mestrado do qual este projeto teve início, foram delineados novos horizontes de pesquisa aliados à continuidade e ao aprofundamento das etapas concluídas.
 
+Início: 2016
+Status: Em andamento.
+
+LIMA, L. B. Barganha do Serviço Público: estado da arte e agenda de pesquisa. REVISTA PENSAMENTO CONTEMPORÂNEO EM ADMINISTRAÇÃO (UFF), v. 12, p. uff.com/pae, 2018.
+
+LIMA, L. B. Barganha entre Política e Administração Sob a Influência Gerencial: um estudo em um governo municipal.. In: XXI Seminários em Administração, 2018, São Paulo. Anais do XXI Seminários em Administração., 2018.
+
+LIMA, L. B. Política e Administração no Governo: Origens Teóricas, Agenda de Pesquisa Empírica e Considerações para o Contexto Brasileiro. In: X CASI - X Congresso de Administração, Sociedade e Inovação, 2017, Petrópolis. Anais do X CASI - X Congresso de Administração, Sociedade e Inovação. Petrópolis: FMP-FASE, 2018.
+
+
 2) Fundações da Administração Pública Brasileira
 ===========
 Essa agenda de pesquisa está orientada para a análise dos conceitos, idéias, teorias e debates fundadores da Administração Pública Brasileira a partir do patrimônio histórico-cultural do Ocidente.
+
+Início: 2018
+Status: Em andamento.
