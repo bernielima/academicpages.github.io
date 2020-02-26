@@ -12,9 +12,9 @@ redirect_from:
 
 Olá, sou Bernardo Lima, graduado e mestre em Administração pela UFES.
 
-Desenvolvo materiais didáticos para cursos de graduação e pós-graduação na modalidade de Educação à Distância, especialmente para as disciplinas da minha especialidade: Administração Pública, Políticas Públicas e Negócios.
+Desenvolvo materiais didáticos para cursos de graduação e pós-graduação na modalidade de Educação à Distância, especialmente para as seguintes disciplinas: Administração Pública, Políticas Públicas e Negócios.
 
-Minhas áreas de atuação abrangem também o ensino, a pesquisa, a consultoria, a escrita de conteúdo e o design instrucional. 
+Minhas áreas de atuação abrangem também o ensino, a pesquisa, a consultoria e a escrita de conteúdo. 
 
 Já atuei como:
 ======
