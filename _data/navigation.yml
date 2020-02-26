@@ -6,6 +6,9 @@ main:
 
   - title: "Pesquisa"
     url: /pesquisa/
+    
+  - title: "Ensino"
+    url: /ensino/
 
   - title: "Conteúdo EaD"
     url: /ead/
