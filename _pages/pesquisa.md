@@ -7,7 +7,7 @@ author_profile: true
 
 Confira aqui meus temas de pesquisa e os resultados obtidos.
 
-1) Relações entre Política e Administração no Governo Brasileiro
+1) Política e Administração no Governo Brasileiro
 ======
 O relacionamento entre os políticos eleitos e os administradores públicos é um tema vasto na literatura acadêmica de Administração Pública e que tem trazido como importantes contribuições a análise das relações e distinções entre as funções, ações e lógicas administrativas e políticas na esfera governamental, bem como no entendimento dos impactos que certa configuração político-administrativa pode ter nas diferentes variáveis da administração pública. 
 
