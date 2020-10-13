@@ -1,5 +1,5 @@
 ---
-permalink: /ensinoepesquisa/
+permalink: /gestaopublica/
 title: ""
 excerpt: ""
 author_profile: true
