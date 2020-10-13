@@ -1,5 +1,5 @@
 ---
-permalink: /ensino/
+permalink: /ensinoepesquisa/
 title: ""
 excerpt: ""
 author_profile: true
