@@ -27,8 +27,7 @@ Já atuei como:
 Outras Experiências
 ======
 * Grupo de Práticas Reflexivas: Co-fundação, promoção e participação de encontros com mestrandos e doutorandos visando a reflexão
-conjunta sobre a vida acadêmica. Baseado nos trabalhos dos psicólogos James Pennebaker e Jordan
-Peterson.
+conjunta sobre a vida acadêmica. 
 
 * Representante Estudantil: Reportando ao Coordenador do Programa de Pós-graduação, e responsável por 30 estudantes.
 Representação das demandas dos estudantes de mestrado nas reuniões do Programa de Pós-Graduação em
