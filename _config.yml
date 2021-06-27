@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "L. Bernardo Lima"
+title                    : "Bernardo Lima"
 title_separator          : "-"
-name                     : &name "L. Bernardo Lima"
-description              : &description "Administração Pública e Negócios"
+name                     : &name "Bernardo Lima"
+description              : &description ""
 url                      : https://bernielima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bernielima.github.io"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "L. Bernardo Lima"
+  name             : "Bernardo Lima"
   avatar           : "be.png"
-  bio              : "Administração Pública e Negócios"
+  bio              : ""
   location         : "Vitória, Espírito Santo"
   employer         :
   googlescholar    : 
@@ -95,8 +95,8 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  researchgate     : "Bernardo_Lima4"
-  lattes           : "0588720511145559"
+  researchgate     : 
+  lattes           : 
   instagram        :
   lastfm           :
   linkedin         :
