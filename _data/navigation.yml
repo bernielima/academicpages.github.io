@@ -4,15 +4,3 @@ main:
   - title: "Sobre"
     url: /about/
 
-  - title: "Ensino e Pesquisa"
-    url: /ensinoepesquisa/
-
-  - title: "Conteúdo EaD"
-    url: /ead/
-
-  - title: "Gestão Pública"
-    url: /gestaopublica/
-    
-  - title: "Contato"
-    url: /contato/
-
